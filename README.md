@@ -27,7 +27,7 @@ I'm now expanding into **Data Science and AI** (Python, SQL, Machine Learning, D
 |---|---|
 | 💼 **Experience** | .NET Developer at We3.Tech, Frontend Developer at Unified Mentor, Web Developer Intern at Prodigy InfoTech |
 | 🔭 **Learning now** | Machine Learning, Neural Networks, NLP, LangChain, OpenAI API |
-| 🎯 **Looking for** | Full Stack, Frontend and .NET Developer roles |
+| 🎯 **Looking for** | Full Stack, Frontend, Backend and Data Science and Data Analyst and .NET Developer roles |
 | 📍 **Location** | Mumbai, Maharashtra, India |
 
 ---
@@ -158,8 +158,7 @@ A fully responsive multi-section landing page in HTML and CSS, with features, te
 
 I'm actively looking for opportunities where I can contribute to real products and keep growing as an engineer. If you have a role, a project or an idea, I'd love to hear from you.
 
-📧 **ankitsuthar683@gmail.com** · 🌐 **[Portfolio](https://ankit-portfolio-inky.vercel.app)** · 💼 **[LinkedIn](https://linkedin.com/in/ankitkumar-suthar)**
-
+📧 **ankitsuthar683@gmail.com** 
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=Ankit4511&icon=0&color=0&style=flat-square&label=Profile+Views)](https://visitcount.itsvg.in)
