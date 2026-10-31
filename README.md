@@ -38,8 +38,8 @@ I'm now expanding into **Data Science and AI** (Python, SQL, Machine Learning, D
 ```mermaid
 flowchart LR
     A["🎓 B.E. Computer Engineering<br/>2021 – 2025"] --> B["💻 Web Developer Intern<br/>Prodigy InfoTech<br/>Apr 2025"]
-    B --> C["⚛️ Frontend Developer<br/>Unified Mentor<br/>Apr – May 2025"]
-    C --> D["🟣 .NET Developer<br/>We3.Tech<br/>Dec 2025 – Apr 2026"]
+    B --> C["⚛️ Frontend Developer Intern<br/>Unified Mentor<br/>Apr – May 2025"]
+    C --> D["🟣 Software Developer Intern<br/>We3.Tech<br/>Dec 2025 – Apr 2026"]
     D --> E["🤖 Data Science & AI<br/>Ducat School of AI<br/>In progress"]
     E --> F["🚀 Next: Your team?"]
 
@@ -64,6 +64,7 @@ mindmap
       Bootstrap
       HTML5 / CSS3
     Backend
+      Python
       Node.js
       Express.js
       ASP.NET MVC
