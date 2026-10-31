@@ -4,7 +4,7 @@
 <img src="banner.svg" width="100%" alt="Ankitkumar Suthar - Full Stack Developer"/>
 
 <a href="https://github.com/Ankit4511">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=720&height=50&lines=Building+scalable+web+apps+with+MERN+%26+ASP.NET+MVC;Turning+ideas+into+clean%2C+production-ready+features;Now+leveling+up+in+Data+Science+%26+Generative+AI;Open+to+work+%E2%80%94+let%27s+build+something+great+%F0%9F%9A%80" alt="Typing SVG](https://raw.githubusercontent.com/Ankit4511/Ankit4511/main/banner.png)"/>
+  <img src="https://raw.githubusercontent.com/Ankit4511/Ankit4511/main/banner.png"/>
 </a>
 
 <br/>
